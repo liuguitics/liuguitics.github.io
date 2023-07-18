@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome to the Garden of Linguistics."
 excerpt: "About me"
 author_profile: true
 redirect_from: 

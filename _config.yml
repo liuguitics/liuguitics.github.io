@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuxuan Account"
+  name             : "Yuxuan Liu"
   avatar           : "profile.png"
-  bio              : "Linguistics student at Tsinghua University"
+  bio              : "A linguistics student who loves everything about language"
   location         : "Haidian, Beijing"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://scholar.google.com/this-is-a-test"
+  googlescholar    : "http://scholar.google.com/yuxuanliu"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/liuguitics"
+  orcid            : "https://orcid.org/0009-0005-6004-7470"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuxuan / Ling"
+title                    : "Yuxuan Liu"
 title_separator          : "-"
 name                     : &name "Yuxuan Liu"
-description              : &description "Linguistics student at Tsinghua University"
+description              : &description "A student majoring in linguistics"
 url                      : https://liuguitics.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liuguitics.github.io"

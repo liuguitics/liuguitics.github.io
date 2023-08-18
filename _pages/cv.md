@@ -21,7 +21,9 @@ Work experience
   
 Skills
 ======
-
+* Languages: Mandarin Chinese, English, Japanese.
+* Coding: Python, C, LaTeX.
+* Misc.: Academic research, teaching.
 
 Publications
 ======

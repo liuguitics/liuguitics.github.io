@@ -8,6 +8,7 @@ date: 2022-2023-winter
 location: "Haidian, Beijing"
 ---
 
+------
 2022-12-04  Chapter 1-2, introduction, sets, relations, and functions.
 ------
 2022-12-11  Chapter 3, propositional logic.

@@ -4,7 +4,7 @@ collection: talks
 type: "Reading group talk"
 permalink: /talks/2022-2023-winter-talk
 venue: "Semantics Group of Beijing Normal University"
-date: 2022-2023-winter
+date: 2022-12-04
 location: "Haidian, Beijing"
 ---
 
